@@ -1,0 +1,38 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define endl '\n'
+typedef long long ll;
+typedef long double ld;
+
+void debug()
+{
+    return;
+}
+
+void solve()
+{
+    ll n;
+    cin >> n;
+    ll a = n / 7;
+    ll b = n / 21;
+    ll c = n / 14;
+    ll d = n / 42;
+    cout << a - b - c + d << endl;
+    return;
+}
+
+int main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+    cout.tie(0);
+
+    int t;
+    t = 1;
+    // cin >> t;
+    while (t--)
+    {
+        solve();
+    }
+    return 0;
+}

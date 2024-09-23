@@ -1,0 +1,1 @@
+{"name":"Local: P1455","url":"c:\\Users\\24933\\Documents\\Code\\c++\\Luogu\\test\\P1455.cpp","tests":[{"id":1722226627613,"input":"5 3 10\n3 10\n3 10\n3 10\n5 100\n10 1\n1 3\n3 2\n4 2","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\24933\\Documents\\Code\\c++\\Luogu\\test\\P1455.cpp","group":"local","local":true}

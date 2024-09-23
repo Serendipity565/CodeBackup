@@ -1,0 +1,1 @@
+{"name":"Local: P5788","url":"c:\\Users\\24933\\Documents\\Code\\c++\\Luogu\\test\\P5788.cpp","tests":[{"id":1721699570281,"input":"5\n1 4 2 3 5","output":"2 5 4 5 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\24933\\Documents\\Code\\c++\\Luogu\\test\\P5788.cpp","group":"local","local":true}

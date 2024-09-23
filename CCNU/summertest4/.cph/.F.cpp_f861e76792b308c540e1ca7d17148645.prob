@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"c:\\Users\\24933\\Documents\\Code\\c++\\CCNU\\summertest4\\F.cpp","tests":[{"id":1721821409593,"input":"5\n100\n12\n8\n2021\n10000\n","output":"9\n4\n7\n44\n99\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\24933\\Documents\\Code\\c++\\CCNU\\summertest4\\F.cpp","group":"local","local":true}

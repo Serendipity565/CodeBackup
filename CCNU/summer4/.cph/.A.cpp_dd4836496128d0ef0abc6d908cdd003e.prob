@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Users\\24933\\Documents\\Code\\c++\\CCNU\\summer4\\A.cpp","tests":[{"id":1722060143862,"input":"2\niostreamcoutgpthelloendl\ngpt\naaaaa\naa\n","output":"1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\24933\\Documents\\Code\\c++\\CCNU\\summer4\\A.cpp","group":"local","local":true}

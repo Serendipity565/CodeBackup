@@ -1,0 +1,1 @@
+{"name":"Local: T271585","url":"c:\\Users\\24933\\Documents\\Code\\c++\\Luogu\\test\\T271585.cpp","tests":[{"id":1720145338811,"input":"3 4 3\n1 2 3 4\n3 2 1 0\n1 5 7 8\n1 1 2 2\n1 1 3 3\n1 2 3 4","output":"8\n25\n32"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\24933\\Documents\\Code\\c++\\Luogu\\test\\T271585.cpp","group":"local","local":true}

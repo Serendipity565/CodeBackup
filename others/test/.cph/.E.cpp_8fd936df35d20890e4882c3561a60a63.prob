@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"c:\\Users\\24933\\Documents\\Code\\c++\\others\\test\\E.cpp","tests":[{"id":1724414052528,"input":"2*(x+y)/(1-x)@","output":"YES"},{"id":1724414061146,"input":"(25+x)*(a*(a+b+b)@","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\24933\\Documents\\Code\\c++\\others\\test\\E.cpp","group":"local","local":true}

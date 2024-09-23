@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"c:\\Users\\24933\\Documents\\Code\\c++\\others\\4\\F.cpp","tests":[{"id":1723202738606,"input":"8\n0 3 2 6 2 1 0 0\n","output":"4"},{"id":1723202742541,"input":"3\n2000 2000 2000\n","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\24933\\Documents\\Code\\c++\\others\\4\\F.cpp","group":"local","local":true}

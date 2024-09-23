@@ -1,0 +1,1 @@
+{"name":"Local: P7424","url":"c:\\Users\\24933\\Documents\\Code\\c++\\Luogu\\test\\P7424.cpp","tests":[{"id":1721957567240,"input":"3 2\n1 3 1\n2 4 2\n3 4 1\n2\n3","output":"1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\24933\\Documents\\Code\\c++\\Luogu\\test\\P7424.cpp","group":"local","local":true}

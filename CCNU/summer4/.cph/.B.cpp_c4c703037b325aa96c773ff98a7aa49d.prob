@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"c:\\Users\\24933\\Documents\\Code\\c++\\CCNU\\summer4\\B.cpp","tests":[{"id":1722060444044,"input":"1","output":"1"},{"id":1722060453148,"input":"5 2\n","output":"2 3 5 1 4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\24933\\Documents\\Code\\c++\\CCNU\\summer4\\B.cpp","group":"local","local":true}

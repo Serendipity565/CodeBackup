@@ -1,0 +1,1 @@
+{"name":"Local: P1381","url":"c:\\Users\\24933\\Documents\\Code\\c++\\Luogu\\test\\P1381.cpp","tests":[{"id":1722822526064,"input":"3\nhot\ndog\nmilk\n5\nhot\ndog\ndog\nmilk\nhot","output":"3\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\24933\\Documents\\Code\\c++\\Luogu\\test\\P1381.cpp","group":"local","local":true}

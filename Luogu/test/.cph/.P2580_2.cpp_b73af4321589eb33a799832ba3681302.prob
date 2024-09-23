@@ -1,0 +1,1 @@
+{"name":"Local: P2580_2","url":"c:\\Users\\24933\\Documents\\Code\\c++\\Luogu\\test\\P2580_2.cpp","tests":[{"id":1722911485988,"input":"5  \na\nb\nc\nad\nacd\n3\na\na\ne","output":"OK\nREPEAT\nWRONG"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\24933\\Documents\\Code\\c++\\Luogu\\test\\P2580_2.cpp","group":"local","local":true}
