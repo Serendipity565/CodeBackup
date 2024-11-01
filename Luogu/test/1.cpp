@@ -1,40 +1,26 @@
-#include <bits/stdc++.h>
-using namespace std;
-#define endl '\n'
-typedef long long ll;
-typedef long double ld;
-const ll mod = 1e9 + 7;
-
-void debug()
-{
-    return;
-}
-
-void solve()
-{
-    int x;
-    int y;
-    cin>>x;
-    if(x<=30)
-        if((x>20))y=x;
-        else if(x>10) y=2*x;
-    if(x>0&& x<30)cout<<x<<y;
-    else cout<<"wa"<<endl;
-    return;
-}
-
+#include <stdio.h>
+#include <math.h>
 int main()
 {
-    ios::sync_with_stdio(false);
-    cin.tie(0);
-    cout.tie(0);
-
-    int t;
-    t = 1;
-    // cin >> t;
-    while (t--)
+    int n, m, w = 0, c, f, d;
+    char a = ',';
+    scanf("%d", &n);
+    m = n;
+    while (m > 0)
     {
-        solve();
+        m /= 10;
+        w++;
     }
+    printf("%d", w);
+    m = n;
+    for (int i = w - 1; i >= 0; i--)
+    {
+        c = pow(10, i);
+        f = m / c;
+        m = m % c;
+        printf("%d%c", f, a);
+    }
+    d = pow(10, (n - 1));
+    printf("%d", n % d);
     return 0;
 }
