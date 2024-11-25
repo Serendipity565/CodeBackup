@@ -1,30 +1,31 @@
 #include <stdio.h>
 
-unsigned int change(unsigned int x, int p, int n)
-{
-    unsigned int k;
+typedef long long ll;
 
-    if (n >= p + 1)
+ll fast_pow(ll a, ll b, ll c)
+{
+    ll ans = 1;
+    a %= c;
+    while (b)
     {
-        k = (1U << (p + 1)) - 1;
-        return x ^ k;
+        if (b % 2 == 1)
+        {
+            ans = (ans * a) % c;
+        }
+        a = (a * a) % c;
+        b /= 2;
     }
-    else
-    {
-        k = (1U << (p + 1)) - 1;
-        int m = (1U << (p - n + 1)) - 1;
-        return x ^ k ^ m;
-    }
+    return ans;
 }
 
 int main()
 {
-    unsigned int x;
-    int p, n;
+    int a;
+    ll b;
+    scanf("%d %lld", &a, &b);
 
-    scanf("%u %d %d", &x, &p, &n);
+    ll result = fast_pow(a, b, 1000);
+    printf("%03lld\n", result);
 
-    unsigned int result = change(x, p, n);
-    printf("%u\n", result);
     return 0;
 }
